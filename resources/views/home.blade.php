@@ -88,9 +88,9 @@
       <h3 style="font-family: 'Montserrat', sans-serif; font-weight: 700; color: white; text-align: center;" class="m-0">Онлайн-расписание:</h3>
       <a href="updateStatus" style="font-family: 'Montserrat', sans-serif; font-weight: 200; color: white; text-align: center; display: block; margin: 0 auto; text-decoration: underline;" class="mb-2"><small>Статус обновлений</small></a>
       <div class="row justify-content-center">
-        <ul class="" style="flex-direction: row;">
+        <ul class="m-0 p-0" style="flex-direction: row;">
             <li class="dropdown">
-                <a href="#" class="btn btn-neutral btn-icon" class="nav-link" data-toggle="dropdown" href="#" role="button">
+                <a href="#" class="btn btn-neutral btn-icon mr-0" class="nav-link" data-toggle="dropdown" href="#" role="button">
                     <span class="btn-inner--icon"><i class="fas fa-university"></i></span>
                     <span class="btn-inner--text" id="faculty-text">Факультет</span>
                 </a>
