@@ -32,4 +32,3 @@ Route::get('/ical/{speciality}/{course}', [DataSourceController::class, 'generat
 Route::get('/syncInfo/{speciality}/{course}', function ($speciality, $course) {
     return view('syncinfo', ['speciality' => $speciality, 'course' => $course]);
 });
-// Route::get('/gay', [DataSourceController::class, 'process_all']);
