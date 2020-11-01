@@ -79,7 +79,7 @@
           </div>
         </div> --}}
         <div class="btn-wrapper text-center">
-            <a href="https://t.me/uniiiiiiiiiiiiiiiiiibot" class="btn btn-neutral btn-icon">
+            <a href="https://t.me/Uniiiiiiiiiiiiiii_bot" class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon"><i class="fab fa-telegram-plane"></i></span>
                 <span class="btn-inner--text">Бот</span>
             </a>
